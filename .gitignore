@@ -1,9 +1,0 @@
-<?php
-
-namespace ArabBh;
-
-use pocketmine\PluginBase;
-use pocketmine\command\CommandSender;
-use pocketmine\Player;
-
-class Mini 
